@@ -1,4 +1,12 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=askurashev&show_icons=true&locale=en" alt="askurashev" /></p>
+### Hello there 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askurashev&" alt="askurashev" /></p>
-cvbcb
+#### I'm an amateur developer. I can't live a day without coding.
+
+I love programming, teaching, science (more biology, ecology), scientometrics, handicrafts (leather), drawing, design and much more.
+
+Project partner at [nubbledesign](https://nubbledesign.com);<br>
+Developer at [ScholarHub](https://scholar-hub.org);<br>
+Author of [ASKurashev](https://kurashev.com);<br>
+
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.ai`
+- 🌍 Mostly I use Django, Python, JavaScript, CSS, HTML, VScode, MkDocs (+ Material), Aegea, Fotorama
