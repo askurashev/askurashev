@@ -10,3 +10,7 @@ Author of [ASKurashev](https://kurashev.com);<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.ai`
 - 🌍 Mostly I use Django, Python, JavaScript, CSS, HTML, VScode, MkDocs (+ Material), Aegea, Fotorama
+
+[![GitHub followers](https://img.shields.io/github/followers/askurashev?style=flat)](#)
+[![GitHub User's stars](https://img.shields.io/github/stars/jaskurashev?style=flat)](#)
+[![GitHub forks](https://img.shields.io/github/forks/askurashev/askurashev?style=flat)](#)
