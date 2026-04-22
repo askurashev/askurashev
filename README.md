@@ -6,6 +6,7 @@ I love programming, teaching, science (more biology, ecology), scientometrics, h
 
 Project partner at [nubbledesign](https://nubbledesign.com);<br>
 Developer at [ScholarHub](https://scholar-hub.org);<br>
+Developer at [Pryzm](https://pryzm.club);<br>
 Author of [ASKurashev](https://kurashev.com);<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.ai`
